@@ -1,4 +1,5 @@
 # GRIP23-COMPUTER-VISION-IOT
+Object detection-
 First of all, you need to install OpenCV,OpenCV is an image processing library. It is designed to solve computer vision problems.
 For Object Detection, specifies the location of multiple objects in the image
 
@@ -29,3 +30,11 @@ In order to classify the objects in the image, we have to define a particular th
 So that if the value is more than that particular threshold, then the object will be classified into that particular class.
 
 After initializing the threshold in order to classify the image, we have to loop through the labels and compare the object with a particular label.
+
+
+COLOUR IDENTIFICATION
+
+Here the image as the vector, it is possible to apply the K Means algorithm and identify k clusters, that will be our colors.
+Sklearn libraries for the Machine Learning part, Numpy for the vector transformations, Pandas for the final summary and some Image Processing typical libraries (cv2, skimage, matplotlib.pyplot etc.)
+
+
