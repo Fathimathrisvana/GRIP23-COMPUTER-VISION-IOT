@@ -32,9 +32,3 @@ So that if the value is more than that particular threshold, then the object wil
 After initializing the threshold in order to classify the image, we have to loop through the labels and compare the object with a particular label.
 
 
-COLOUR IDENTIFICATION
-
-Here the image as the vector, it is possible to apply the K Means algorithm and identify k clusters, that will be our colors.
-Sklearn libraries for the Machine Learning part, Numpy for the vector transformations, Pandas for the final summary and some Image Processing typical libraries (cv2, skimage, matplotlib.pyplot etc.)
-
-
