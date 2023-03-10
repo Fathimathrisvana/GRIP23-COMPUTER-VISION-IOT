@@ -1,4 +1,4 @@
-# GRIP23-COMPUTER-VISION-IOT
+# GRIP23-COMPUTER-VISION-IOT-Task-1
 Object detection-
 First of all, you need to install OpenCV,OpenCV is an image processing library. It is designed to solve computer vision problems.
 For Object Detection, specifies the location of multiple objects in the image
